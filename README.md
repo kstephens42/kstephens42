@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm Kyle!
 
-I use code as a tool to scale businesses. I prefer working with type-safe languages and take testing seriously. I have written code for the cryptocurrency, automotive, and advertising industries. I rarely post public repositories because most of my work is done for private businesses. 
+I use code as a tool to scale businesses. I prefer working with type-safe languages and take testing seriously. I have written code for the cryptocurrency, automotive, and advertising industries.
 
 ### Here are just a few examples of projects I have worked on:
 
